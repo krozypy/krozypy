@@ -1,83 +1,49 @@
-<div align="center">
+# Krozypy
 
-# Hey, I'm Krozypy 👋
+Software developer focused on game engineering, systems programming, and software architecture.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Game+Engineer;Reverse+Engineering+Enthusiast;High-Level+%26+Low-Level+Programming" alt="Typing SVG" />
+I enjoy building performant software, exploring how complex systems work, and working across both high-level application development and low-level internals.
 
-</div>
+## What I'm Interested In
 
----
-
-## About Me
-
-I'm a developer who enjoys figuring out how things work under the hood and building things from scratch.
-
-Most of my time is spent working with C++, but I also regularly use C, C#, and Java. I'm interested in everything from high-level software architecture down to low-level system internals.
-
-A few things I enjoy:
-
-- 🎮 Game engineering
-- ⚙️ Engine and systems programming
-- 🧩 Reverse engineering
-- 🚀 Performance optimization
-- 🏗️ Software architecture
-- 🔍 Learning how complex software works
-- 💻 High-level and low-level programming
-
----
+- Game engineering
+- Engine architecture
+- Systems programming
+- Reverse engineering and binary analysis
+- Graphics and rendering
+- Performance optimization
+- Software design
+- Developer tooling
 
 ## Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,java" />
 </p>
 
----
+## Tools
 
-## Tools I Use
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=visualstudio,git,github,linux,windows,cmake" />
 </p>
 
----
+## A Bit About Me
 
-## Interests
+I've always been interested in understanding how software works beyond the surface level. Whether that's designing large codebases, optimizing performance-critical systems, analyzing binaries, or building game-related projects, I enjoy solving technical problems and learning new approaches.
 
-```txt
+Most of my work revolves around C++, but I regularly work with C, C#, and Java depending on the project.
+
+## Areas I Spend Time In
+
+```text
 Game Development
 Engine Programming
 Software Architecture
 Reverse Engineering
-Systems Programming
+Systems Design
+Performance Optimization
 Graphics Programming
-Optimization
 Tool Development
 ```
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krozypy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krozypy&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Current Focus
-
-- Building game-related projects
-- Improving my C++ knowledge
-- Exploring graphics and rendering
-- Reverse engineering software and game systems
-- Writing cleaner, faster code
-
----
-
-<div align="center">
-
-*"If it works, I'll optimize it. If it's optimized, I'll probably rewrite it anyway."*
-
-</div>
+> Building things, breaking things, figuring out why they broke, and building them better.
